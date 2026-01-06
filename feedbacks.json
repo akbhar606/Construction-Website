@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Rajesh Kumar",
+    "email": "rajesh@example.com",
+    "phone": "9876543210",
+    "project": "residential",
+    "rating": 5,
+    "feedback": "Mountains Contractor built our dream home exactly as we envisioned. Murtuja sir and his team were professional, punctual, and the quality of work was exceptional. Highly recommended!",
+    "location": "Rajpur Road",
+    "date": "2024-01-15",
+    "timestamp": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "phone": "9876543211",
+    "project": "renovation",
+    "rating": 5,
+    "feedback": "Excellent renovation work! They transformed our old house into a modern home. The attention to detail and commitment to quality is outstanding. Worth every penny!",
+    "location": "Clement Town",
+    "date": "2024-02-10",
+    "timestamp": "2024-02-10T14:20:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Amit Verma",
+    "email": "amit@example.com",
+    "phone": "9876543212",
+    "project": "residential",
+    "rating": 5,
+    "feedback": "Very professional and reliable contractor. Completed our project on time and within budget. Murtuja sir personally supervised the work. Thank you Mountains Contractor!",
+    "location": "Mussoorie Road",
+    "date": "2024-02-25",
+    "timestamp": "2024-02-25T16:45:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Sunita Devi",
+    "email": "sunita@example.com",
+    "phone": "9876543213",
+    "project": "interior",
+    "rating": 4,
+    "feedback": "Amazing interior design work! They understood our requirements perfectly and delivered beyond expectations. The team is very skilled and professional.",
+    "location": "Sahastradhara Road",
+    "date": "2024-03-05",
+    "timestamp": "2024-03-05T11:15:00Z"
+  }
+]

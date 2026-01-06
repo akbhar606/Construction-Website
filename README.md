@@ -95,7 +95,7 @@ mountains-contractor/
 ### Method 2: Git Clone
 ```bash
 # Clone the repository
-git clone https://github.com/[(https://github.com/akbhar606)]/mountains-contractor.git
+git clone https://github.com/your-username/mountains-contractor.git
 
 # Navigate to project directory
 cd mountains-contractor
@@ -106,7 +106,7 @@ cd mountains-contractor
 ### Method 3: GitHub Pages
 1. **Fork** this repository
 2. **Enable GitHub Pages** in repository settings
-3. **Access** via `[(https://github.com/akbhar606).github.io/mountains-contractor`
+3. **Access** via `https://your-username.github.io/mountains-contractor`
 
 ## 💻 Usage
 
@@ -136,7 +136,7 @@ cd mountains-contractor
 ```javascript
 // Update in script.js
 const adminWhatsApp = '918077488891';        // Your WhatsApp
-const adminEmail = 'ansariakbar56748@gmail.com';  // Your email
+const adminEmail = 'your-email@domain.com';  // Your email
 ```
 
 #### 🏗️ **Services & Projects**
@@ -246,10 +246,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **💬 WhatsApp**: [Chat Now](https://wa.me/918077488891)
 
 ### Developer
-- **👨‍💻 Developer**: [Akbar Ansari]
-- **🐙 GitHub**: [(https://github.com/akbhar606)]
-- **💼 LinkedIn**: [(https://www.linkedin.com/in/akbar-ansari-798710330/)]
-- **📧 Email**: [ansariakbar56748@gmail.com [
+- **👨‍💻 Developer**: [Your Name]
+- **🐙 GitHub**: [Your GitHub Profile]
+- **💼 LinkedIn**: [Your LinkedIn Profile]
+- **📧 Email**: [Your Email]
 
 ## 🙏 Acknowledgments
 
@@ -271,7 +271,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 **Star this repository if you found it helpful!**
 
-**Built with ❤️ for Mountains Contractor by [Akbar Ansari]**
+**Built with ❤️ for Mountains Contractor by [Your Name]**
 
 ---
 
